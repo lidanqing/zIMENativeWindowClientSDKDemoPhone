@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="SendBitRate">
+        <item>128</item>
+        <item>256</item>
+        <item>384</item>
+        <item>512</item>
+        <item>768</item>
+        <item>1024</item>
+        <item>-1</item>
+    </string-array>
+    
+    <string-array name="VideoCodecType">
+        <item >InnerSoft (H264)</item>
+        <item >InnerSoft (H265)</item>
+        <item >InnerSoft (Callback)</item>
+        <item >Amlogic (Callback)</item>
+        <item >MediaCodec (Callback)</item>
+    </string-array>
+    
+    <string-array name="LogLevel">
+        <item>DEBUG</item>
+        <item>INFO</item>
+        <item>WARN</item>
+        <item>ERROR</item>
+        <item>FATAL/SYSTEM</item>
+    </string-array>
+    
+</resources>
